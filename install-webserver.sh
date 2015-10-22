@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt-get update -y
-sudo apt-get install -y apache2 git php5 php5-curl mysql-client curl php-mysqli 
+sudo apt-get install -y apache2 git php5 php5-curl mysql-client curl php-mysql
 
 git clone https://github.com/jhajek/itmo-544-444-fall2015.git
 
